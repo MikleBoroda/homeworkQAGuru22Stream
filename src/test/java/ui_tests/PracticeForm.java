@@ -50,5 +50,4 @@ public class PracticeForm {
         $(byText("Uttar Pradesh Agra"));
         $("#closeLargeModal").click();
     }
-
 }
